@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "0.16.7",
-  "releasedAt": "2026-09-17T13:34:33Z",
-  "notesUrl": "https://github.com/schramm42/ogilvy-dist/releases/tag/v0.16.7",
+  "version": "0.16.8",
+  "releasedAt": "2026-09-17T14:21:53Z",
+  "notesUrl": "https://github.com/schramm42/ogilvy-dist/releases/tag/v0.16.8",
   "assets": [
     {
       "platform": "windows/amd64",
       "kind": "installer",
-      "url": "https://github.com/schramm42/ogilvy-dist/releases/download/v0.16.7/Ogilvy-amd64-installer.exe",
-      "size": 27941349,
-      "sha256": "2812e6cb517b3cecae65964521d3a89268b71c474e19227824c6bf07ba5352f4"
+      "url": "https://github.com/schramm42/ogilvy-dist/releases/download/v0.16.8/Ogilvy-amd64-installer.exe",
+      "size": 27943133,
+      "sha256": "4a88f376863c401d5f7ed716b7412166e4f3336c8179625587097138ae605cd9"
     }
   ]
 }
