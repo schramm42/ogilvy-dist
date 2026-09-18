@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "version": "0.17.1",
-  "releasedAt": "2026-09-18T10:33:55Z",
-  "notesUrl": "https://github.com/schramm42/ogilvy-dist/releases/tag/v0.17.1",
+  "version": "0.17.2",
+  "releasedAt": "2026-09-18T16:37:44Z",
+  "notesUrl": "https://github.com/schramm42/ogilvy-dist/releases/tag/v0.17.2",
   "assets": [
     {
       "platform": "windows/amd64",
       "kind": "installer",
-      "url": "https://github.com/schramm42/ogilvy-dist/releases/download/v0.17.1/Ogilvy-amd64-installer.exe",
-      "size": 27942505,
-      "sha256": "9bcc8cd47485f71b3d05922325c07722ff1e7825e9a80ff33095da832d4b6a56"
+      "url": "https://github.com/schramm42/ogilvy-dist/releases/download/v0.17.2/Ogilvy-amd64-installer.exe",
+      "size": 27942551,
+      "sha256": "639ab1f3381340dcdd7cea7a08fcbc81888b6fccebb9df1955cb62810be2cb53"
     },
     {
       "platform": "darwin/universal",
       "kind": "dmg",
-      "url": "https://github.com/schramm42/ogilvy-dist/releases/download/v0.17.1/Ogilvy-universal.dmg",
-      "size": 56647784,
-      "sha256": "9640c8b6674d5a19e80cbaac4bb169b7c4abcf15ff89fe852fea22df798f99eb"
+      "url": "https://github.com/schramm42/ogilvy-dist/releases/download/v0.17.2/Ogilvy-universal.dmg",
+      "size": 56649144,
+      "sha256": "9bafe8c1a308b4196856d9b81ab0e2dc715bd1eab674b56473557b7521a0e11d"
     }
   ]
 }
